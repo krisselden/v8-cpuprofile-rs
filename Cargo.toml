@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "v8-cpuprofile",
+    "v8-cpuprofile-split"
+]
